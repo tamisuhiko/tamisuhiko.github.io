@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkTamisuhiko=self.webpackChunkTamisuhiko||[]).push([[649],{649:(a,l,u)=>{u.r(l),u.d(l,{ProfileModule:()=>o});var e=u(256);class o{}o.\u0275fac=function(s){return new(s||o)},o.\u0275mod=e.oAB({type:o}),o.\u0275inj=e.cJS({})}}]);
