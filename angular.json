@@ -74,6 +74,7 @@
               "browserTarget": "Tamisuhiko:build:production"
             },
             "development": {
+              "hmr": true,
               "browserTarget": "Tamisuhiko:build:development"
             }
           },
